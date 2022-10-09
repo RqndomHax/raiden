@@ -1,13 +1,13 @@
 [package]
-name = "genshin"
+name = "raiden"
 version = "0.1.0"
 authors = ["Paul COMTE <paul.codepro@gmail.com>"]
-repository = "https://github.com/RqndomHax/genshin"
+repository = "https://github.com/RqndomHax/raiden"
 description = "A scrapper for the https://genshin.gg database."
 readme = "README.md"
 license = "AGPL-3.0-or-later"
 include = [ "src/**", "README.md" ]
-keywords = [ "genshin", "scrapper", "api", "database", "genshin impact" ]
+keywords = [ "genshin", "scrapper", "api", "database", "hoyoverse" ]
 categories = [ "accessibility", "web-programming::http-client" ]
 edition = "2021"
 
